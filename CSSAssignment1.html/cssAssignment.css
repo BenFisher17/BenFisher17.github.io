@@ -9,7 +9,7 @@ h3.style2{
   padding-left: 25px;
   padding-right: 25px;
   border-radius: 10px 10px 10px 10px;
-  border-width: 12px;
+  border-width: 8px;
   width: 160px;
   background-color: rgb(170,170,170);
   text-align: center;
@@ -30,12 +30,49 @@ li.style{
     border-width:2px;
   }
 
-  p.style{
-    background-color: rgb(202,203,219;
-    
-    )
+  p.paragraph{
+    background-color: rgb(202,203,219);
+    border-style: solid;
+    border-top-width: 90px;
+    border-bottom-width: 90px;
+    border-left-width: 40px;
+    border-right-width: 40px;
 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-shadow:1px 1px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    width: 510px;
+    border-color: rgb(177,201,189);
+    margin: auto
   }
+
+p.first:hover{
+  border-color: red;
+}
+
+
+  p.bottom{
+    text-align: center;
+    text-decoration: bold;
+    font-size: 25px
+  }
+
+a:link{
+  color: rgb(0,0,255)
+}
+
+a:hover{
+  color: orange
+}
+
+
+
+
 
 
 
