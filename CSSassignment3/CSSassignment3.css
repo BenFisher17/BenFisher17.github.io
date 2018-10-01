@@ -1,0 +1,84 @@
+body.style {
+  background-image: url("background.jpg");
+  background-attachment: fixed;
+
+}
+
+H1.style {
+  border-style: solid;
+  width: 450px;
+  text-align: center;
+  margin: auto;
+  background-color: rgb(255,133,133);
+  border-color: yellow;
+}
+
+.one {
+  float: LEFT;
+  width: 20%;
+  padding: 5px;
+  margin: center;
+
+}
+
+/*. two::after {
+  content: "";
+  clear: both;
+  display: table;
+  width: 20%;
+  margin: center;}
+*/
+
+.two {
+width:550px;
+height: 600px;
+background-color;
+text-align: center;
+padding-top: 10px;
+margin-top: 15px;
+display:inline-block;
+}
+
+img {
+    display: block;
+    margin: center;
+    float:left;
+    clear:both;
+    margin: auto;
+  }
+
+#pictures {
+text-align:center;
+margin: auto;
+
+}
+
+
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+
+
+  }
+
+
+
+#pic1 {
+
+  background-color: rgb(255,133,133);
+  align: center;
+  padding: 20px;
+  margin: auto;
+  text-align:center;
+  width: 60%;
+  height: 30%;
+
+}
+
+p.style {
+  text-align:center;
+  color: rgb(255,133,133);
+  font-size: 50px
+
+}
