@@ -1,0 +1,54 @@
+body {
+width: 960px;
+text-align: center;
+background-color: #aacbee;
+margin: 0 auto;
+}
+
+div {
+  margin: 10px;
+  text-align: center;
+}
+
+.p940 {
+width: 940px;
+float: left;
+background-color: pink;
+
+}
+
+.p460{
+  width: 460px;
+  float: left;
+  background-color: pink;
+
+}
+
+
+
+.p300{
+  width: 300px;
+  float: left;
+  background-color: pink;
+}
+
+.p220 {
+  width: 220px;
+  float: left;
+  background-color: pink
+
+}
+
+.p140 {
+  width: 140px;
+  float: left;
+  background-color: pink
+}
+
+
+
+
+  p {
+    background-color: pink;
+
+  }
