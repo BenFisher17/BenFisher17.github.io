@@ -1,0 +1,36 @@
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+#pic2{
+  width: 30%;
+  height: 30%;
+}
+
+/* gallery */
+img {
+  border:solid 2px;
+  border-bottom-color:#ffe;
+  border-left-color:#eed;
+  border-right-color:#eed;
+  border-top-color:#ccb;
+  max-height:100%;
+  max-width:100%;
+}
+#floatl{
+  float: left;
+}
+
+#floatr{
+  float: right;
+}
+
+ul{
+  column-span: 2;
+}
+
+#picture{
+  width: 150px;
+  height: 150px;
+}
