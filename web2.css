@@ -1,0 +1,18 @@
+table.chap3 {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th.chap3 {
+  background-color:  #FFFFF0;
+  border: 1px solid black;
+}
+
+th.head{
+  width: 100%;
+}
+
+td.chap6{
+  background-color:  #FFFFF0;
+  border: 1px solid black;
+  }
